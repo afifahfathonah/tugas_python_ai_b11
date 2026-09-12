@@ -66,9 +66,9 @@ for kunci, nilai in mahasiswa.items():
 # Nested structures
 daftar_buku = [
     {"judul": "Belajar Python", "penulis": "Andi", "tahun": 2020},
-    {"judul": "Algoritma Dasar", "penulis": "Budi", "tahun": 2018},
-    {"judul": "Pemrograman Web", "penulis": "Citra", "tahun": 2022},
-    {"judul": "Kecerdasan Buatan", "penulis": "Dewi", "tahun": 2024},
+    {"judul": "Algoritma Dasar", "penulis": "koko", "tahun": 2018},
+    {"judul": "Pemrograman Web", "penulis": "rafi", "tahun": 2022},
+    {"judul": "Kecerdasan Buatan", "penulis": "riri", "tahun": 2024},
 ]
 
 print("Semua Judul Buku:")
